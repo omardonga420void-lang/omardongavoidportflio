@@ -1,0 +1,1 @@
+window.OD_CONFIG={SUPABASE_URL:"https://ibhuytxfgxtrcfcsdhxo.supabase.co",SUPABASE_ANON_KEY:"sb_publishable_ZPirvrK3FDJ9hWAU9jrLIQ_LnZc3ujr",STORAGE_BUCKET:"portfolio-images"};
