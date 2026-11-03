@@ -12,4 +12,5 @@ Security: config.js contains only the Supabase publishable key. Never put a secr
 service_role key in browser code. Keep the supplied RLS policies enabled.
 
 Before launch: test login, thumbnail upload, publish/hide, and Vimeo embed permissions.
-Replace the public contact link/email with the client's approved contact details.
+The public site includes a YouTube category, the approved email contact, and a floating WhatsApp Contact Me button.
+The WhatsApp button opens +20 100 773 7664 with a prefilled inquiry message.
