@@ -14,3 +14,7 @@ service_role key in browser code. Keep the supplied RLS policies enabled.
 Before launch: test login, thumbnail upload, publish/hide, and Vimeo embed permissions.
 The public site includes a YouTube category, the approved email contact, and a floating WhatsApp Contact Me button.
 The WhatsApp button opens +20 100 773 7664 with a prefilled inquiry message.
+
+
+CONTACT FORM UPDATE:
+The Project Brief form now submits directly to omardonga706@gmail.com using the same FormSubmit service used by the SOLY MAN website. It does not open the visitor email app. FormSubmit may send a one-time activation/confirmation email to the destination inbox before the first submission is delivered; complete that activation from the inbox.
